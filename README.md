@@ -26,5 +26,5 @@ An interactive Python application to visualize **linear regression** using **bat
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/rsantos7306/gradient_descent_sandbox
 cd gradient_descent_sandbox
