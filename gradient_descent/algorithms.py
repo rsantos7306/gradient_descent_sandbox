@@ -1,5 +1,5 @@
 import numpy as np
-from utils import calculate_error_mean_squared
+from .utils import calculate_error_mean_squared
 
 
 def update_params(slope: float, intercept: float, x: np.ndarray, y: np.ndarray, learning_rate: float) -> (float, float):
