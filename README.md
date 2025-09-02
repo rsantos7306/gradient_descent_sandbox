@@ -28,3 +28,40 @@ An interactive Python application to visualize **linear regression** using **bat
 ```bash
 git clone https://github.com/rsantos7306/gradient_descent_sandbox
 cd gradient_descent_sandbox
+
+```
+
+2. **Install Dependencies**
+
+```bash
+pip install -r requirements.txt
+
+```
+- Requires Python 3.8+
+
+---
+
+## Usage
+
+Run the main script while in the __gradient_descent_sandbox__ directory:
+
+```bash
+python main.py
+```
+---
+## Structure
+
+```bash
+gradient-descent-visualizer/
+├── gradient_descent/
+│   ├── __init__.py
+│   ├── algorithms.py      # Gradient descent implementations
+│   └── utils.py           # Error calculation
+├── main.py                # Interactive elements (sliders, buttons, plots)
+├── requirements.txt       # Project dependencies
+├── README.md
+├── LICENSE
+├── .gitattributes
+└── .gitignore
+
+```
