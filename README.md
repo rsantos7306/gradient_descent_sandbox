@@ -1,6 +1,6 @@
 # Gradient Descent Linear Regression Visualizer
 
-An interactive Python application to visualize **linear regression** using **batch**, **mini-batch**, and **stochastic gradient descent**. Adjust parameters in real time to see how the slope, intercept, and error evolve.
+An interactive Python application to visualize **linear regression** using **batch**, **mini-batch**, and **stochastic gradient descent**. Adjust parameters to see how the slope, intercept, and error evolve.
 
 ---
 
