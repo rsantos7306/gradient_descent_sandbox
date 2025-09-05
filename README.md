@@ -14,7 +14,7 @@ An interactive Python application to visualize **linear regression** using **bat
   - Initial slope and intercept
   - Mini-batch size
 - Choose between **stochastic**, **mini-batch**, or **batch gradient descent**
-- Live visualization of:
+- Visualization of:
   - Original data points
   - Line of best fit
   - Mean squared error over epochs
