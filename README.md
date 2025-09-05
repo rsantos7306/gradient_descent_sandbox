@@ -1,4 +1,4 @@
-# Gradient Descent Linear Regression Visualizer
+# Gradient Descent Polynomial Regression Visualizer
 
 An interactive Python application to visualize **polynomial regression** using **batch**, **mini-batch**, and **stochastic gradient descent**. Adjust parameters to see how the slope, intercept, and error evolve.
 
